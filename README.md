@@ -22,7 +22,7 @@ API RESTful para gerenciamento de tarefas, desenvolvida com Node.js, TypeScript,
 
 1. **Clone o repositório:**
    ```
-   git clone https://github.com/seu-usuario/task-manager-api.git
+   git clone https://github.com/gleidistonaraujo18/task-management-api.git
    cd task-manager-api
    ```
 
